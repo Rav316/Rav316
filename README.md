@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Rav316">
-    <img src="https://komarev.com/ghpvc/?username=Rav316&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" alt="profile views" />
-  </a>
   <img src="https://img.shields.io/github/followers/Rav316?style=for-the-badge&color=6DB33F&labelColor=1a1b27" alt="followers" />
   <img src="https://img.shields.io/github/stars/Rav316?style=for-the-badge&color=6DB33F&labelColor=1a1b27" alt="stars" />
   <img src="https://img.shields.io/badge/Open_to_work-Java_Developer-6DB33F?style=for-the-badge&labelColor=1a1b27" alt="open to work" />
