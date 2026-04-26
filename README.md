@@ -141,7 +141,7 @@ Beyond Java I write **React / React Native** for full-stack pet projects, and ex
       <a href="https://github.com/Rav316/event-space">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rav316&repo=event-space&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6DB33F&icon_color=6DB33F&text_color=a9b1d6" />
       </a>
-      <p><b>event-space</b> — university platform for campus events. Microservices on <b>Spring Boot + Go</b>, React + Expo clients, <b>RabbitMQ, Prometheus, Grafana</b>, PostgreSQL.</p>
+      <p><b>event-space</b> — university platform for campus events. Microservices on <b>Spring Boot + Go</b>, React + Expo clients, <b>RabbitMQ, Prometheus, Grafana</b>, PostgreSQL. <sub><i>🔒<code>event-space-api</code> is currently private</i></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rav316/nullable-value-spring-boot-starter">
