@@ -166,13 +166,6 @@ Beyond Java I write **React / React Native** for full-stack pet projects, and ex
   </tr>
 </table>
 
-### 🧪 Also explored
-`grpc-fullstack-app` · `kafka-course` · `webflux-security` · `virtual-thread-playground` · `microservices` (Spring Cloud) · `http3-demo` · `jooq-with-testcontainers` · `optima-stock`
-
----
-
-
-
 ## 📫 Contact
 
 <p>
